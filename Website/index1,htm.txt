@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>LOGIN FORM DESIGN</TITLE>
+<link rel="stylesheet" type="text/css" href="style0.css">
+</HEAD>
+<BODY>
+<div class="registerbox">
+</div>
+</body>
+</html>
